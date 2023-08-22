@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675336896006",
+    "project_id": "nickchat-e8222",
+    "storage_bucket": "nickchat-e8222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675336896006:android:100d9c91de04a72f14cd87",
+        "android_client_info": {
+          "package_name": "longpdph30373.poly.mychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675336896006-2gfhm6i7tcdp21hd81qre2bbv30ob8s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7w1dL7HMgTbZ97wIexPsTjBTJLwaqZGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675336896006-2gfhm6i7tcdp21hd81qre2bbv30ob8s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
